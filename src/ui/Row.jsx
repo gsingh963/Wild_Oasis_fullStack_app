@@ -7,7 +7,7 @@ const Row = styled.div`
     css`
       align-items center;
       justify-content: space-between;
-      ali
+      
     `}
   ${(props) =>
     props.type === "vertical" &&
